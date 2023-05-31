@@ -1,0 +1,38 @@
+{
+    "56": {
+        "chainId": "56",
+        "name": "Binance Smart Chain",
+        "rpcUrl": "https://bsc-dataseed.binance.org/",
+        "scanUrl": "https://bscscan.com/",
+        "wssUrl": "",
+        "blockPeriod": "3000",
+        "routerAddress": "0xd8dB8626EBcfCad0633037E579B58667DeF6d098"
+    },
+    "97": {
+        "chainId": "97",
+        "name": "BSC Testnet",
+        "rpcUrl": "https://data-seed-prebsc-1-s1.binance.org:8545",
+        "scanUrl": "https://testnet.bscscan.com/",
+        "wssUrl": "",
+        "blockPeriod": "3000",
+        "routerAddress": "0xd8dB8626EBcfCad0633037E579B58667DeF6d098"
+    },
+    "6065": {
+        "chainId": "6065",
+        "name": "Tres Chain(TestNet)",
+        "rpcUrl": "https://rpc-test.treschain.co",
+        "scanUrl": "https://treschain.co",
+        "wssUrl": "",
+        "blockPeriod": "3000",
+        "routerAddress": "0x8BD3CE58362074bf1aF429D4eb9398c17d614597"
+    },
+    "6066": {
+        "chainId": "6066",
+        "name": "Tres Chain(MainNet)",
+        "rpcUrl": "https://rpc.treschain.io",
+        "scanUrl": "https://treschain.io",
+        "wssUrl": "",
+        "blockPeriod": "3000",
+        "routerAddress": "0x8BD3CE58362074bf1aF429D4eb9398c17d614597"
+    }
+}
